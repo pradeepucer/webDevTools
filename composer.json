@@ -1,5 +1,5 @@
 {
-    "name": "pradeepucer/webDevTools",
+    "name": "pradeepucer/web_dev_tools",
     "description": "Various PHP, JS, SQL, CSS and HTML Web Development tools ",
     "type": "tools",
     "require": {
