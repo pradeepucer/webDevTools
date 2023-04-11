@@ -1,0 +1,21 @@
+{
+    "name": "pradeepucer/webDevTools",
+    "description": "Various PHP, JS, SQL, CSS and HTML Web Development tools ",
+    "type": "tools",
+    "require": {
+      "php": ">=5.3.0"
+    },
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Pradeep Pandey",
+        "email": "pradeepucer@gmail.com"
+      }
+    ],
+    "autoload": {
+        "psr-4": {
+            "webDevTools\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+  }
