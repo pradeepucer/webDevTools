@@ -16,5 +16,6 @@
         "psr-4": {
             "webDevTools\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
   }
