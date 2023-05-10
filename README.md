@@ -15,5 +15,5 @@ Various PHP, JS, SQL, CSS and HTML Web Development tools
 ## Installation
 
 Install the package using Composer:
-require pradeepucer/webDevTools
+Run command composer require pradeepucer/web_dev_tools
 
